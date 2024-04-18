@@ -1,7 +1,6 @@
 ### Hi there 👋
 <p><strong>Java Developer</strong> and Linux enthusiast with some background in Visual Basic and C programming. Passionate about Hardware and Electronics as a hobby.</p>
-<img src="../1000X800.png>
-  
+
 <!--
 **nielcodeforce/nielcodeforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
