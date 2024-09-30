@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p><strong>Java Developer</strong> and Linux enthusiast with some background in Visual Basic and C programming. Passionate about Hardware and Electronics as a hobby.</p>
+<p><strong>Java Developer</strong> and Linux enthusiast with some background in Visual Basic and C programming. Also interested in learning Python and Golang. I am passionate about Hardware and Electronics as a hobby.</p>
 
 <!--
 **nielcodeforce/nielcodeforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
