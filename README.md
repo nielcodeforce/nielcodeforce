@@ -1,6 +1,7 @@
 ### Hi there 👋
-<p><strong>Java Developer</strong> and Linux enthusiast with some background in Visual Basic and C programming. Also interested in learning Python and Golang. I am passionate about Hardware and Electronics as a hobby.</p>
-
+<p><strong>Java Developer</strong> and Linux enthusiast with some background in Visual Basic and C programming. I am passionate about Hardware and Electronics as a hobby.</p>
+<p>Analysis and Systems Development | Java 7, 8, 11 and 17 | Git&GitHub | HTML | CSS | Javascript | PHP | MySQL | Apache Web Server | SQL | Microsoft Access Database | Visual Basic 6.0 | C Language |
+Hardware and Local Area Network (LAN)</p>
 <!--
 **nielcodeforce/nielcodeforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
